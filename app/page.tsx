@@ -8,11 +8,11 @@ const Home = () => {
       <header className="w-full bg-white-1500 mb-24 md:mb-16">
         <div className="container">
           <Image
-            src="/images/RR_Logo.png"
+            src="/images/logo_RR_only_cropped.jpg"
             alt="Logo"
             width={150}
             height={150}
-            className="w-auto h-[100px] md:h-[150px]"
+            className="w-auto h-[80px] md:h-[80px]"
           />
         </div>
       </header>
